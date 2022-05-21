@@ -3,8 +3,6 @@ from typing import Any
 import numpy
 import pandas as pd
 
-
-# набор данных
 s = pd.Series(
     data=['1', 2, 3.1, 'hi!', 5, -512, 12.42, 'zero', 10.10, 98],
     index=range(6, 26, 2)
