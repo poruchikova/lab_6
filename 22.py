@@ -1,8 +1,7 @@
+import matplotlib.pyplot as plt
+import pandas as pd
 import requests
 import seaborn
-import pandas as pd
-import matplotlib.pyplot as plt
-
 
 API_KEY = 'hgg2bwdphgwdhnnxsdchsgjyxqjjh3'
 DOWNLOAD_PATH = './gspc.csv'
