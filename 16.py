@@ -1,6 +1,4 @@
-import pandas
 import seaborn
-from numpy import split
 from pandas import DataFrame
 
 
