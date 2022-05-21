@@ -1,5 +1,5 @@
 import pandas as pd
-import requests as requests
+import requests
 
 
 DOWNLOAD_PATH = './gspc.csv'
